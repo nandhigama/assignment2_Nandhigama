@@ -14,5 +14,16 @@ I like this place because of it's **cultures** and **people** around there.
 2. After reaching Hyderabad please take a Cab/Taxi to Kukatpally.
     1. From kukatpally you need to get down at Gandhi Statue.
     2. You need to walk towards east for 150 meters you will reach destination.
-    
+
+### Unordered List...
+
+---
+
+1. You need to bring the essential gear to enjoy maximum.
+    1. Tent.
+    2. Refrigirator for Beverages.
+    3. Food.
+2. Drinks or Beverages.
+    1. Diet COke.
+    2. Diet Pepsi.
 
