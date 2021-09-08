@@ -47,3 +47,46 @@ I like this place because of it's **cultures** and **people** around there.
 
 > There is no greater Virus than fear ***A.Lincoln***
 
+
+# Code Fencing 
+
+---
+
+> Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures.<br>
+> The algorithm starts at the root node and explores as far as possible along each branch before backtracking.
+
+Forward edges and cross edges only exist in directed graphs.
+
+```
+
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<int> color;
+
+vector<int> time_in, time_out;
+int dfs_timer = 0;
+
+void dfs(int v) {
+    time_in[v] = dfs_timer++;
+    color[v] = 1;
+    for (int u : adj[v])
+        if (color[u] == 0)
+            dfs(u);
+    color[v] = 2;
+    time_out[v] = dfs_timer++;
+}
+```
+<https://en.wikipedia.org/wiki/Depth-first_search#:~:text=Depth%2Dfirst%20search%20(DFS),along%20each%20branch%20before%20backtracking.>
