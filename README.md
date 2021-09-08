@@ -44,5 +44,6 @@ I like this place because of it's **cultures** and **people** around there.
 ---
 
 > Whatever you are, be a good one ***A.Lincoln***
+
 > There is no greater Virus than fear ***A.Lincoln***
 
