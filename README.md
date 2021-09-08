@@ -29,3 +29,12 @@ I like this place because of it's **cultures** and **people** around there.
 
 [CLick to Navigate](AboutMe.md)
 
+
+|Food/Drink  | Location   | Amount    |
+|--------    | ---------- |  ---------|  
+|Pasta       | Kansas City| $4.0      |
+|Pizza       | St. Joseph | $4.97     |
+|Boondhi     | Maryville  | $5.99     |
+
+
+
