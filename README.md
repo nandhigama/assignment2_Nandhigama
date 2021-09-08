@@ -39,5 +39,10 @@ I like this place because of it's **cultures** and **people** around there.
 |Pizza       | St. Joseph | $4.97     |
 |Boondhi     | Maryville  | $5.99     |
 
+### Pitty Quotes
 
+---
+
+> Whatever you are, be a good one ***A.Lincoln***
+> There is no greater Virus than fear ***A.Lincoln***
 
