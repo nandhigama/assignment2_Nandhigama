@@ -19,11 +19,11 @@ I like this place because of it's **cultures** and **people** around there.
 
 ---
 
-1. You need to bring the essential gear to enjoy maximum.
-    1. Tent.
-    2. Refrigirator for Beverages.
-    3. Food.
-2. Drinks or Beverages.
-    1. Diet COke.
-    2. Diet Pepsi.
++ You need to bring the essential gear to enjoy maximum.
+    + Tent.
+    + Refrigirator for Beverages.
+    + Food.
++ Drinks or Beverages.
+    + Diet COke.
+    + Diet Pepsi.
 
